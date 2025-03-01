@@ -15,7 +15,7 @@ public class Main {
         }
         System.out.println("Задание 4");
         for (int i = 10; i >= -10; i--) {
-            System.out.println(i);
+            System.out.println(i) ;
         }
         System.out.println("Задание 5");
         for (int i = 1904; i <= 2096; i = i + 4) {
