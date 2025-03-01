@@ -10,7 +10,7 @@ public class Main {
             System.out.println(i);
         }
         System.out.println("Задание 3");
-        for (int i = 2; i < 17; i = i + 2) {
+        for (int i = 0; i < 17; i = i + 2) {
             System.out.println(i);
         }
         System.out.println("Задание 4");
