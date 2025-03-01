@@ -45,7 +45,7 @@ public class Main {
             savings1 = savings1+savings1 * 0.01;
             System.out.println("Месяц " + i + ", сумма накоплений равна " + savings1 + " рублей.");
         }
-        int result=0;
+        int result;
         System.out.println("Задание 10");
         for (int i=0;i<=10;i++){
             result=i*2;
